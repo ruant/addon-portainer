@@ -1,6 +1,6 @@
 {
   "name": "Portainer Custom",
-  "version": "dev",
+  "version": "dev-2021.11.14-1",
   "slug": "portainer-custom",
   "description": "Manage your Docker environment with ease",
   "url": "https://github.com/ruant/hassio-addons/tree/main/portainer",
