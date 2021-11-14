@@ -1,9 +1,9 @@
 {
-  "name": "Portainer",
+  "name": "Portainer Custom",
   "version": "dev",
-  "slug": "portainer",
+  "slug": "portainer-custom",
   "description": "Manage your Docker environment with ease",
-  "url": "https://github.com/ruant/hassio-addons",
+  "url": "https://github.com/ruant/hassio-addons/tree/main/portainer",
   "advanced": true,
   "ingress": true,
   "ingress_stream": true,
